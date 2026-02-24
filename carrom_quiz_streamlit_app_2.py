@@ -856,17 +856,11 @@ if st.session_state.app_stage == "completed":
     st.write(f"✅ Right: {st.session_state.right} | ❌ Wrong: {st.session_state.wrong} | ⏭ Skipped: {st.session_state.skipped}")
 
     if score <= 70:
-        st.error("Your carrom knowledge is basic. You must read the carrom rules and retry.")
+        st.error("Good Job ! Keep Practicing.")
     elif score <= 90:
-        st.warning("Your carrom knowledge is intermediate. Keep practicing to improve.")
+        st.warning("Nice Job ! Keep Practicing.")
     else:
-        st.success("Your carrom knowledge is advanced. Well done!")
+        st.success("Awesome! Keep Practicing")
         show_fireworks()
         st.balloons()
-
-    
-
-
-
-
 
