@@ -706,7 +706,8 @@ if st.session_state.app_stage == "select":
     choice = st.radio(
         "How many questions would you like to attempt?",
         [10, 20, 50, 100],
-        horizontal=True
+        horizontal=False,
+		index=None
     )
 
     if st.button("▶ Begin Quiz", use_container_width=True):
@@ -864,3 +865,4 @@ if st.session_state.app_stage == "completed":
         st.balloons()
 
     
+
