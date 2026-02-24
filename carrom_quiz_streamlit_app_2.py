@@ -732,7 +732,7 @@ if st.session_state.app_stage == "select":
 if st.session_state.app_stage == "quiz":
 
     if st.session_state.current >= st.session_state.total_questions:
-        st.session_state.app_stage = "completed"
+        st.session_state.app_stage = "thankyou"
         st.rerun()
 
     q = st.session_state.quiz_questions[st.session_state.current]
@@ -820,6 +820,23 @@ if st.session_state.app_stage == "quiz":
     st.stop()
 
 
+
+
+
+# ==========================================================
+# ===================== THANK YOU PAGE =====================
+# ==========================================================
+if st.session_state.app_stage == "thankyou":
+
+    st.title("🎉 Thank You for taking this Quiz!")
+    st.write(f"### Hope you have enjoyed this journey, If you have any suggestions or feedback feel free to reach out to me.")
+    
+    st.write(f"### Vishal Ghosalkar")
+    
+    if st.button("Check yor Final Score"):
+        st.session_state.app_stage = "completed"
+        st.rerun()
+        
 # ==========================================================
 # ===================== COMPLETED PAGE =====================
 # ==========================================================
