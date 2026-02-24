@@ -860,11 +860,12 @@ if st.session_state.app_stage == "completed":
     elif score <= 90:
         st.warning("Well Done ! Keep practicing to improve.")
     else:
-		st.warning("Nice Job ! Keep practicing to improve.")
+		st.success("Nice Job ! Keep practicing to improve.")
         show_fireworks()
         st.balloons()
 
     
+
 
 
 
