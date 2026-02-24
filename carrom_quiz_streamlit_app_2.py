@@ -518,7 +518,77 @@ def generate_questions():
 		 ["Yes", 
 		  "No", 
 		  "Sometimes", 
-		  "Only queen points"])          
+		  "Only queen points"]),     
+
+		("How much time is allowed for players to change sides?", 
+		 "Two minutes",
+		 ["One minute",
+		  "Two minutes",
+		  "Three minutes",
+		  "Five minutes"]),
+
+		("Taking more than two minutes to change sides results in?",
+		 "Violation of rules",
+		 ["No issue",
+		  "Warning only",
+		  "Violation of rules",
+		  "Game restart"]),
+
+		("A violation committed before the first stroke of a player's turn is called?",
+		 "Technical Foul",
+		 ["Ordinary Foul",
+		  "Technical Foul",
+		  "Minor Error",
+		  "Penalty Stroke"]),
+
+		("What happens if a Technical Foul is committed before first stroke?",
+		 "One coin is taken out and turn continues",
+		 ["Turn cancelled",
+		  "Opponent gets queen",
+		  "One coin is taken out and turn continues",
+		  "Board forfeited"]),
+
+		("Who places the coin taken out after a Technical Foul?",
+		 "Opponent",
+		 ["Umpire",
+		  "Offending player",
+		  "Opponent",
+		  "Random player"]),
+
+		("If a player commits a violation when it is NOT his turn, it is called?",
+		 "Technical Foul",
+		 ["No foul",
+		  "Technical Foul",
+		  "Warning only",
+		  "Game stopped"]),
+
+		("If Technical Foul is committed by player not having turn, what happens?",
+		 "Penalty is imposed",
+		 ["Nothing",
+		  "Warning only",
+		  "Penalty is imposed",
+		  "Turn skipped"]),
+
+		("Does a Technical Foul always involve loss of a coin?",
+		 "Yes",
+		 ["Yes",
+		  "No",
+		  "Only in finals",
+		  "Depends on umpire"]),
+
+		("After committing Technical Foul before first stroke, does turn continue?",
+		 "Yes",
+		 ["No",
+		  "Yes",
+		  "Only after warning",
+		  "Only in doubles"]),
+
+		("Technical Foul applies to which situations?",
+		 "Violation before stroke or when not having turn",
+		 ["Only during strike",
+		  "Only after queen",
+		  "Violation before stroke or when not having turn",
+		  "Only in singles"])	          
 					
     ]                  
             
