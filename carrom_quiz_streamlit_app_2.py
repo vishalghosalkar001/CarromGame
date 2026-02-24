@@ -618,7 +618,7 @@ Every question brings you one step closer to becoming a true Carrom pro.
     col1, col2 = st.columns(2)
 
     with col1:
-        if st.button("🚀 Start Quiz", use_container_width=True):
+        if st.button("🚀 Begin Quiz", use_container_width=True):
             st.session_state.app_stage = "select"
             st.rerun()
 
@@ -779,5 +779,6 @@ if st.session_state.app_stage == "completed":
         st.success("Your carrom knowledge is advanced. Well done!")
         show_fireworks()
         st.balloons()
+
 
     
