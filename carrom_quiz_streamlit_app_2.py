@@ -707,7 +707,7 @@ if st.session_state.app_stage == "select":
         "How many questions would you like to attempt?",
         [10, 20, 50, 100],
         horizontal=False,
-        index=None
+        
         )
 
     if st.button("▶ Begin Quiz", use_container_width=True):
@@ -863,4 +863,5 @@ if st.session_state.app_stage == "completed":
         st.success("Awesome! Keep Practicing")
         show_fireworks()
         st.balloons()
+
 
