@@ -701,30 +701,35 @@ if st.session_state.app_stage == "welcome":
 if st.session_state.app_stage == "select":
 
     st.title("📊 Choose Number of Questions")
-    # ---------- TOP RIGHT QUIT BUTTON (SELECT PAGE) ----------
-        
+
     choice = st.radio(
         "How many questions would you like to attempt?",
         [10, 20, 50, 100],
         horizontal=False,
-        
-        )
+        index=None
+    )
 
     if st.button("▶ Begin Quiz", use_container_width=True):
-        st.session_state.total_questions = choice
-        st.session_state.quiz_questions = random.sample(
-            st.session_state.question_bank, choice
-        )
-        st.session_state.app_stage = "quiz"
-        st.session_state.current = 0
-        st.session_state.right = 0
-        st.session_state.wrong = 0
-        st.session_state.skipped = 0
-        st.session_state.submitted = False
-        st.session_state.selected_answers = {}
-        st.rerun()
+
+        # ✅ Validation check
+        if choice is None:
+            st.warning("⚠ Please select at least one option to begin the quiz.")
+        else:
+            st.session_state.total_questions = choice
+            st.session_state.quiz_questions = random.sample(
+                st.session_state.question_bank, choice
+            )
+            st.session_state.app_stage = "quiz"
+            st.session_state.current = 0
+            st.session_state.right = 0
+            st.session_state.wrong = 0
+            st.session_state.skipped = 0
+            st.session_state.submitted = False
+            st.session_state.selected_answers = {}
+            st.rerun()
 
     st.stop()
+
 
 
 # ==========================================================
@@ -863,5 +868,6 @@ if st.session_state.app_stage == "completed":
         st.success("Awesome! Keep Practicing")
         show_fireworks()
         st.balloons()
+
 
 
