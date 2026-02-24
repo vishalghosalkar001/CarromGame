@@ -603,16 +603,16 @@ if st.session_state.app_stage == "welcome":
     st.title("🎯 Welcome to Carrom Mastery Hub")
 
     st.markdown("""
-### Sharpen Your Skills. Test Your Knowledge.
+## Sharpen Your Skills. Test Your Knowledge.
 
-Whether you're a casual player or a passionate Carrom enthusiast,  
-this app is your interactive gateway to mastering the rules of the game.
+## Whether you're a casual player or a passionate Carrom enthusiast,  
+## this app is your interactive gateway to mastering the rules of the game.
 
-Dive into a fun, engaging, and skill-building experience designed for players at every level.
+## Dive into a fun, engaging, and skill-building experience designed for players at every level.
 
-Tap **Begin Quiz** to explore the world of Carrom rules in a fun, structured, and rewarding way.
+## Tap **Begin Quiz** to explore the world of Carrom rules in a fun, and structured way.
 
-Every question brings you one step closer to becoming a true Carrom pro.
+## Every question brings you one step closer to becoming a true Carrom pro.
 """)
 
     col1, col2 = st.columns(2)
@@ -621,10 +621,6 @@ Every question brings you one step closer to becoming a true Carrom pro.
         if st.button("🚀 Begin Quiz", use_container_width=True):
             st.session_state.app_stage = "select"
             st.rerun()
-
-    with col2:
-        if st.button("❌ Quit", use_container_width=True):
-            st.stop()
 
     st.stop()
 
@@ -779,6 +775,5 @@ if st.session_state.app_stage == "completed":
         st.success("Your carrom knowledge is advanced. Well done!")
         show_fireworks()
         st.balloons()
-
 
     
