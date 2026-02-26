@@ -1,0 +1,1277 @@
+[
+  {
+    "question": "What is the red coin called?",
+    "answer": "Queen",
+    "options": ["King", "Queen", "Master", "Red Coin"]
+  },
+  {
+    "question": "How many points are needed to win a game?",
+    "answer": "25 points",
+    "options": ["21 points", "25 points", "30 points", "50 points"]
+  },
+  {
+    "question": "What is a foul in carrom?",
+    "answer": "Violation of rules",
+    "options": ["Pocketing a coin", "Violation of rules", "Winning a board", "None"]
+  },
+  {
+    "question": "What happens if queen is pocketed but not covered?",
+    "answer": "Queen is placed back on board",
+    "options": ["Player wins", "Queen is placed back on board", "No action", "Game ends"]
+  },
+  {
+    "question": "How long can a player take for a stroke?",
+    "answer": "15 seconds",
+    "options": ["10 seconds", "15 seconds", "30 seconds", "No limit"]
+  },
+  {
+    "question": "What does C/B stand for?",
+    "answer": "Carrom Board",
+    "options": ["Carrom Board", "Carrom Ball", "Carrom Base", "Carrom Brick"]
+  },
+  {
+    "question": "What does C/m stand for?",
+    "answer": "Carromman / Carrommen",
+    "options": ["Carrom Move", "Carromman / Carrommen", "Carrom Match", "Carrom Material"]
+  },
+  {
+    "question": "What is a Break in carrom?",
+    "answer": "The first stroke of a board",
+    "options": ["First pocket", "The first stroke of a board", "Penalty stroke", "Queen shot"]
+  },
+  {
+    "question": "What does Placing mean?",
+    "answer": "Keeping penalty or due coins in outer circle in flat position",
+    "options": [
+      "Pocketing coins",
+      "Keeping penalty or due coins in outer circle in flat position",
+      "Moving coins anywhere",
+      "Holding coins in hand"
+    ]
+  },
+  {
+    "question": "Where should a jumped coin or Queen be placed?",
+    "answer": "Centre Circle by the umpire",
+    "options": [
+      "Outer circle by player",
+      "Centre Circle by the umpire",
+      "Near pocket",
+      "Any position"
+    ]
+  },
+  {
+    "question": "What is Pocketing?",
+    "answer": "Putting C/m or Queen into pocket by proper or improper stroke",
+    "options": [
+      "Moving coin",
+      "Putting C/m or Queen into pocket by proper or improper stroke",
+      "Touching coin",
+      "Covering queen"
+    ]
+  },
+  {
+    "question": "What does Due mean?",
+    "answer": "Pocketing the striker with or without coins or outstanding penalty",
+    "options": [
+      "Bonus points",
+      "Penalty to place coin",
+      "Pocketing the striker with or without coins or outstanding penalty",
+      "Extra turn"
+    ]
+  },
+  {
+    "question": "What is Penalty?",
+    "answer": "Punishment for rule violation",
+    "options": ["Reward", "Punishment for rule violation", "Extra turn", "Loss of points"]
+  },
+  {
+    "question": "What is Covering the Queen?",
+    "answer": "Pocketing own coin in same or next stroke after queen",
+    "options": [
+      "Pocketing only queen",
+      "Pocketing own coin in same or next stroke after queen",
+      "Moving queen",
+      "Touching queen"
+    ]
+  },
+  {
+    "question": "What is a Cannon?",
+    "answer": "Two coins or coin and queen facing pocket without space",
+    "options": [
+      "Two coins place with space",
+      "Two coins or coin and queen facing pocket without space",
+      "Direct pocket shot",
+      "Illegal shot"
+    ]
+  },
+  {
+    "question": "What is Thumbing?",
+    "answer": "Taking stroke using the thumb",
+    "options": ["Using finger", "Taking stroke using the thumb", "Using palm", "No stroke"]
+  },
+  {
+    "question": "What does Turn mean?",
+    "answer": "Right to strike",
+    "options": ["Chance to speak", "Right to strike", "Extra move", "Board start"]
+  },
+  {
+    "question": "Who is an Umpire?",
+    "answer": "Official supervising and controlling the match",
+    "options": ["Player", "Official supervising and controlling the match", "Spectator", "Organizer"]
+  },
+  {
+    "question": "What does Hand mean in rules?",
+    "answer": "Portion of playing hand from fingers to wrist",
+    "options": ["Whole arm", "Fingers only", "Portion of playing hand from fingers to wrist", "Elbow area"]
+  },
+  {
+    "question": "What is a Stroke?",
+    "answer": "Hitting the C/m by striker directly or indirectly",
+    "options": ["Moving hand", "Hitting the C/m by striker directly or indirectly", "Pocketing coin", "Placing coin"]
+  },
+  {
+    "question": "What is White Slam?",
+    "answer": "Pocketing all nine white coins and queen in first turn",
+    "options": [
+      "Pocket queen only",
+      "Pocketing all nine white coins and queen in first turn",
+      "Pocketing all black coins with or without queen in first turn",
+      "Partial pocket"
+    ]
+  },
+  {
+    "question": "What is Black Slam?",
+    "answer": "Pocketing all remaining black coins with or without queen in first turn",
+    "options": [
+      "Pocket only black coins",
+      "Pocketing all remaining black coins with or without queen in first turn",
+      "Pocket queen only",
+      "Pocketing all remaining white coins with or without queen in first turn"
+    ]
+  },
+  {
+    "question": "What are Imaginary Lines in carrom?",
+    "answer": "Lines extended from arrows between base circles",
+    "options": [
+      "Lines drawn on board",
+      "Lines extended from arrows between base circles",
+      "Lines around pockets",
+      "Lines for seating"
+    ]
+  },
+  {
+    "question": "Can a player change sitting position during turn?",
+    "answer": "Yes, but chair or stool must not be moved",
+    "options": [
+      "No, never",
+      "Yes, but chair or stool must not be moved",
+      "Only after game",
+      "Anytime"
+    ]
+  },
+  {
+    "question": "During the board, what part of body may touch the board?",
+    "answer": "Only the playing arm",
+    "options": [
+      "Hand and elbow",
+      "Only the playing arm",
+      "Legs and hands",
+      "Any body part"
+    ]
+  },
+  {
+    "question": "Can wearing items (Bracelets/Bangles/) touch playing surface during turn?",
+    "answer": "No, they must not touch the playing surface",
+    "options": [
+      "Yes, always allowed",
+      "No, they must not touch the playing surface",
+      "Only rings allowed",
+      "Only watches allowed"
+    ]
+  },
+  {
+    "question": "What is the maximum seat height allowed after board?",
+    "answer": "50 cm",
+    "options": ["40 cm", "50 cm", "60 cm", "No limit"]
+  },
+  {
+    "question": "How far can body go beyond imaginary lines?",
+    "answer": "No part except hand",
+    "options": ["Whole body", "No part except hand", "Elbow allowed", "Head allowed"]
+  },
+  {
+    "question": "How should the striker be used?",
+    "answer": "It must be struck, not pushed",
+    "options": ["Pushed gently", "It must be struck, not pushed", "Dragged", "Touched lightly"]
+  },
+  {
+    "question": "How should stroke be made?",
+    "answer": "With finger (with or without support of other fingers)",
+    "options": ["With palm", "With finger (with or without support of other fingers)", "With any object", "With thumb"]
+  },
+  {
+    "question": "Which hands can be used to play?",
+    "answer": "Any hand",
+    "options": ["Only right hand", "Any hand", "Only playing hand", "Only left hand"]
+  },
+  {
+    "question": "Can hand touch playing surface during stroke?",
+    "answer": "Yes",
+    "options": ["No", "Yes", "Only fingers", "Only palm"]
+  },
+  {
+    "question": "How far can elbow move during stroke?",
+    "answer": "It must not enter playing surface or extend beyond imaginary lines",
+    "options": [
+      "No restriction",
+      "It must not enter playing surface or extend beyond imaginary lines",
+      "Any movement",
+      "Only small movement"
+    ]
+  },
+  {
+    "question": "Can hand cross the arrow during stroke?",
+    "answer": "Yes",
+    "options": ["No", "Yes", "Only partially", "Not allowed"]
+  },
+  {
+    "question": "Is support of table or board allowed during stroke?",
+    "answer": "No",
+    "options": ["Yes", "No", "Only for balance", "After stroke"]
+  },
+  {
+    "question": "What is allowed during stroke regarding legs?",
+    "answer": "They may rest on stool or chair",
+    "options": ["On table rim", "They may rest on stool or chair", "On board", "Not allowed"]
+  },
+  {
+    "question": "What is toss in carrom?",
+    "answer": "Method to decide side or first strike",
+    "options": ["To choose coins", "Method to decide side or first strike", "To decide umpire", "To start scoring"]
+  },
+  {
+    "question": "How is toss decided?",
+    "answer": "By coin spin or calling coin",
+    "options": ["By dice", "By coin spin or calling coin", "By umpire choice", "By player agreement"]
+  },
+  {
+    "question": "What does winning toss allow?",
+    "answer": "Choice of side or first strike",
+    "options": ["Automatic first strike", "Choice of side or first strike", "Extra turn", "No benefit"]
+  },
+  {
+    "question": "If winner chooses side, what happens?",
+    "answer": "Loser sits first",
+    "options": ["Winner sits first", "Loser sits first", "Both sit together", "No rule"]
+  },
+  {
+    "question": "How many trial boards allowed?",
+    "answer": "Two",
+    "options": ["One", "Two", "Three", "Unlimited"]
+  },
+  {
+    "question": "Who gets white coins in the board break?",
+    "answer": "Player who breaks",
+    "options": ["Opponent", "Player who breaks", "Umpire", "Random"]
+  },
+  {
+    "question": "What is considered a valid break?",
+    "answer": "Striker touching any coin even slightly",
+    "options": [
+      "Pocketing a coin",
+      "Striker touching any coin even slightly",
+      "Striker touching queen",
+      "No rule"
+    ]
+  },
+  {
+    "question": "If striker touches no coin in break, is it valid?",
+    "answer": "No, break not considered made",
+    "options": ["Yes", "No, break not considered made", "Only if near pocket", "Depends"]
+  },
+  {
+    "question": "How many extra chances are allowed if break fails in first attempt?",
+    "answer": "Maximum two more chances",
+    "options": ["One", "Maximum two more chances", "Three", "No extra chances"]
+  },
+  {
+    "question": "If break fails after 3 chances, what happens?",
+    "answer": "Right to break is lost and opponent plays",
+    "options": ["Player retries", "Right to break is lost and opponent plays", "Game restarts", "No penalty"]
+  },
+  {
+    "question": "What coins does opponent get if break is lost?",
+    "answer": "Black coins",
+    "options": ["White coins", "Black coins", "Random", "No coins"]
+  },
+  {
+    "question": "Can coins be rearranged after failed break chances?",
+    "answer": "No",
+    "options": ["Yes", "No", "Only queen", "Umpire decides"]
+  },
+  {
+    "question": "What happens if improper stroke in break pockets striker without touching coins?",
+    "answer": "Turn lost but no due/penalty",
+    "options": ["Penalty applied", "Turn lost but no due/penalty", "Game ends", "Extra chance"]
+  },
+  {
+    "question": "When must break be taken?",
+    "answer": "After umpire calls Play",
+    "options": ["Before call", "After umpire calls Play", "Anytime", "No rule"]
+  },
+  {
+    "question": "How much time to strike after umpire calls Play?",
+    "answer": "15 seconds",
+    "options": ["10 seconds", "15 seconds", "30 seconds", "No limit"]
+  },
+  {
+    "question": "What happens if break before umpire call?",
+    "answer": "Foul and all pocketed coins placed back",
+    "options": ["Valid break", "Foul and all pocketed coins placed back", "No action", "Extra turn"]
+  },
+  {
+    "question": "Does player continue turn if he pockets his own coin OR queen legally?",
+    "answer": "Yes",
+    "options": ["No", "Yes", "Only queen", "Depends"]
+  },
+  {
+    "question": "When does turn pass to opponent?",
+    "answer": "If player fails to pocket legally",
+    "options": ["Always", "If player fails to pocket legally", "After any shot", "Never"]
+  },
+  {
+    "question": "In first game, who breaks first?",
+    "answer": "Player who chooses to break",
+    "options": ["Opponent", "Player who chooses to break", "Umpire", "Random"]
+  },
+  {
+    "question": "How does breaking order alternate in game?",
+    "answer": "Turns alternate",
+    "options": ["Only first player", "Turns alternate", "No alternation", "Umpire decides"]
+  },
+  {
+    "question": "In second game, who breaks first?",
+    "answer": "Player who did not break first in previous game",
+    "options": ["Same player", "Player who did not break first in previous game", "Random", "Umpire"]
+  },
+  {
+    "question": "In doubles, how does turn pass after break?",
+    "answer": "To player on right of breaker",
+    "options": ["To partner", "To player on right of breaker", "To opponent", "Random"]
+  },
+  {
+    "question": "Maximum time allowed for a stroke?",
+    "answer": "15 seconds",
+    "options": ["10 seconds", "15 seconds", "30 seconds", "No limit"]
+  },
+  {
+    "question": "If player plays out of turn and umpire notices before next stroke?",
+    "answer": "Player loses board by coins on board",
+    "options": ["Game continues", "Player loses board by coins on board", "No penalty", "Extra turn"]
+  },
+  {
+    "question": "If player plays out of turn and next stroke already played?",
+    "answer": "Board continues as played",
+    "options": ["Restart board", "Board continues as played", "Penalty applied", "Coins reset"]
+  },
+  {
+    "question": "If striker is pocketed alone?",
+    "answer": "One coin returned as due",
+    "options": ["No penalty", "One coin returned as due", "Turn continues", "Game ends"]
+  },
+  {
+    "question": "If striker and own coin pocketed together?",
+    "answer": "Own coin returned and one due",
+    "options": ["Only striker penalty", "Own coin returned and one due", "Turn continues", "No penalty"]
+  },
+  {
+    "question": "If striker and opponent coin pocketed?",
+    "answer": "Opponent coin remains pocketed and one due",
+    "options": ["Opponent coin returned", "Opponent coin remains pocketed and one due", "No penalty", "Turn continues"]
+  },
+  {
+    "question": "If striker, own coin and opponent coin pocketed?",
+    "answer": "Own coin returned and one due; opponent coin remains",
+    "options": [
+      "All returned",
+      "Own coin returned and one due; opponent coin remains",
+      "No penalty",
+      "Turn continues"
+    ]
+  },
+  {
+    "question": "If striker pocketed during queen cover attempt?",
+    "answer": "Queen returned and one due",
+    "options": ["Queen remains", "Queen returned and one due", "No penalty", "Game ends"]
+  },
+  {
+    "question": "If striker pocketed with queen and own coin?",
+    "answer": "Queen and own coin returned and one due",
+    "options": [
+      "Only striker penalty",
+      "Queen and own coin returned and one due",
+      "Opponent coin returned",
+      "No penalty"
+    ]
+  },
+  {
+    "question": "If striker pocketed with queen and opponent coin?",
+    "answer": "Queen returned and one due; opponent coin remains",
+    "options": [
+      "All returned",
+      "Queen returned and one due; opponent coin remains",
+      "No penalty",
+      "Turn continues"
+    ]
+  },
+  {
+    "question": "If striker pocketed with queen and both coins?",
+    "answer": "Queen and own coin returned; opponent coin remains; one due",
+    "options": [
+      "All coins returned",
+      "Queen and own coin returned; opponent coin remains; one due",
+      "No penalty",
+      "Game ends"    ]
+  },
+  {
+    "question": "What happens if queen is pocketed without covering?",
+    "answer": "Queen returned to center",
+    "options": ["Player wins", "Queen returned to center", "No action", "Extra turn"]
+  },
+  {
+    "question": "If queen and own coin pocketed in same stroke?",
+    "answer": "Queen is considered covered",
+    "options": ["Queen returned", "Queen is considered covered", "Penalty", "No action"]
+  },
+  {
+    "question": "If queen pocketed and own coin in next stroke?",
+    "answer": "Queen is covered",
+    "options": ["Queen returned", "Queen is covered", "No action", "Penalty"]
+  },
+  {
+    "question": "If queen pocketed and not covered immediately?",
+    "answer": "Queen returned to center",
+    "options": ["Queen stays", "Queen returned to center", "Game ends", "No rule"]
+  },
+  {
+    "question": "How many points is queen worth?",
+    "answer": "3 points",
+    "options": ["1 point", "2 points", "3 points", "5 points"]
+  },
+  {
+    "question": "What happens if player finishes all coins before covering queen?",
+    "answer": "Board lost",
+    "options": ["Player wins", "Board lost", "Queen auto covered", "No rule"]
+  },
+  {
+    "question": "If both players fail to cover queen?",
+    "answer": "Queen returned and no points",
+    "options": ["Both win", "Queen returned and no points", "Game drawn", "Penalty"]
+  },
+  {
+    "question": "Maximum points per board?",
+    "answer": "9 points",
+    "options": ["8 points", "9 points", "10 points", "12 points"]
+  },
+  {
+    "question": "How many boards are usually played in a match?",
+    "answer": "Best of three games",
+    "options": ["Single board", "Best of three games", "Five boards", "Unlimited"]
+  },
+  {
+    "question": "What is a Technical Foul?",
+    "answer": "Violation before stroke or when not having turn",
+    "options": [
+      "During strike only",
+      "Violation before stroke or when not having turn",
+      "After game",
+      "No rule"
+    ]
+  },
+  {
+    "question": "Taking more than two minutes to change sides results in?",
+    "answer": "Violation of rules",
+    "options": ["No issue", "Warning only", "Violation of rules", "Game restart"]
+  },
+  {
+    "question": "How much time is allowed for players to change sides?",
+    "answer": "Two minutes",
+    "options": ["One minute", "Two minutes", "Three minutes", "Five minutes"]
+  },
+  {
+    "question": "Does covering queen give points if board is lost?",
+    "answer": "No",
+    "options": ["Yes", "No", "Sometimes", "Only queen points"]
+  },
+  {
+    "question": "What is an improper stroke?",
+    "answer": "Any stroke violating striking rules",
+    "options": [
+      "Legal hit",
+      "Any stroke violating striking rules",
+      "Queen cover",
+      "Normal break"
+    ]
+  },
+  {
+    "question": "What happens in case of repeated fouls?",
+    "answer": "Penalties continue as per rules",
+    "options": [
+      "No action",
+      "Penalties continue as per rules",
+      "Immediate disqualification",
+      "Game restart"
+    ]
+  },
+  {
+    "question": "Who decides disputes during match?",
+    "answer": "Umpire",
+    "options": ["Players", "Umpire", "Audience", "Organizer"]
+  },
+  {
+    "question": "Can striker be adjusted after umpire calls Play?",
+    "answer": "No",
+    "options": ["Yes", "No", "Only slightly", "Depends"]
+  },
+  {
+    "question": "Can coins overlapping be separated?",
+    "answer": "Yes, carefully by umpire",
+    "options": ["No", "Yes, carefully by umpire", "By player", "Randomly"]
+  },
+  {
+    "question": "If coin leaves board after stroke?",
+    "answer": "Placed in center by umpire",
+    "options": ["Removed permanently", "Placed in center by umpire", "Given to opponent", "Ignored"]
+  },
+  {
+    "question": "Can striker be cleaned during match?",
+    "answer": "Yes, with umpire permission",
+    "options": ["No", "Yes, with umpire permission", "Anytime", "Only before match"]
+  },
+  {
+    "question": "What happens if time limit exceeded repeatedly?",
+    "answer": "Penalty may be imposed",
+    "options": ["No issue", "Penalty may be imposed", "Game stopped", "Opponent wins"]
+  },
+
+  {
+    "question": "What is the maximum time allowed for players to change sides?",
+    "answer": "Two minutes",
+    "options": ["One minute", "Two minutes", "Three minutes", "Five minutes"]
+  },
+  {
+    "question": "A violation committed before the first stroke of a player's turn is considered:",
+    "answer": "Technical Foul",
+    "options": ["Foul", "Serious Foul", "Technical Foul", "No penalty"]
+  },
+  {
+    "question": "What is the penalty for a Technical Foul committed before the first stroke?",
+    "answer": "One C/m is brought out for placing and turn continues",
+    "options": [
+      "Turn is lost",
+      "One C/m is removed and opponent continues",
+      "One C/m is brought out for placing and turn continues",
+      "Queen is removed"
+    ]
+  },
+  {
+    "question": "A violation committed during or after the first stroke of a player's turn is considered:",
+    "answer": "Foul",
+    "options": ["Technical Foul", "Warning", "Foul", "No consequence"]
+  },
+  {
+    "question": "What happens if a foul is committed while pocketing C/m and/or Queen?",
+    "answer": "Pocketed pieces plus one additional C/m are brought out and turn is lost",
+    "options": [
+      "Only the Queen is returned",
+      "Pocketed pieces plus one additional C/m are brought out and turn is lost",
+      "Game is stopped",
+      "Opponent loses turn"
+    ]
+  },
+  {
+    "question": "If a C/m jumps out of the playing surface, where is it placed?",
+    "answer": "Centre Circle if space permits",
+    "options": [
+      "Near the pocket",
+      "Anywhere chosen by opponent",
+      "Centre Circle if space permits",
+      "Baseline"
+    ]
+  },
+  {
+    "question": "If both Queen and C/m jump in the same stroke, which is placed first?",
+    "answer": "Queen",
+    "options": ["C/m", "Striker", "Queen", "Either one"]
+  },
+  {
+    "question": "If C/m and/or Queen stand on their rim, what should be done?",
+    "answer": "Leave undisturbed",
+    "options": [
+      "Reposition immediately",
+      "Consider as pocketed",
+      "Leave undisturbed",
+      "Declare foul"
+    ]
+  },
+  {
+    "question": "If two C/m overlap each other, what is the correct action?",
+    "answer": "Leave them undisturbed",
+    "options": [
+      "Separate them",
+      "Leave them undisturbed",
+      "Remove both",
+      "Declare foul"
+    ]
+  },
+  {
+    "question": "If a C/m resting at the mouth of the pocket falls into the pocket, it is considered:",
+    "answer": "Properly pocketed",
+    "options": [
+      "Foul",
+      "Improper pocket",
+      "Replay",
+      "Properly pocketed"
+    ]
+  },
+  {
+    "question": "If a player commits a violation while not having his turn, how is it classified?",
+    "answer": "Technical Foul",
+    "options": ["Foul", "Technical Foul", "Warning", "No consequence"]
+  },
+  {
+    "question": "What happens to the turn when a foul is committed during or after the first stroke?",
+    "answer": "The turn is lost",
+    "options": ["The turn continues", "The turn is replayed", "The turn is lost", "Opponent loses turn"]
+  },
+  {
+    "question": "When placing a jumped Queen and C/m from the same stroke, how should the C/m be positioned?",
+    "answer": "Touching the Queen in the opposite direction of the player",
+    "options": [
+      "Anywhere inside the circle",
+      "Touching the Queen in the opposite direction of the player",
+      "Near the baseline",
+      "Next to the pocket"
+    ]
+  },
+  {
+    "question": "If both White and Black C/m jump in the same stroke, which one is placed first?",
+    "answer": "The C/m of the player who made the stroke",
+    "options": [
+      "White C/m",
+      "Black C/m",
+      "The C/m of the player who made the stroke",
+      "The one closest to the centre"
+    ]
+  },
+  {
+    "question": "If more than two C/m jump in a single stroke, how are the remaining pieces placed after the first two?",
+    "answer": "Touching the first two as far as possible",
+    "options": [
+      "Randomly anywhere",
+      "Near the pocket",
+      "Touching the first two as far as possible",
+      "Outside the board"
+    ]
+  },
+  {
+    "question": "If a C/m jumps out and falls back onto the playing surface without hitting any obstruction, what should the Umpire do?",
+    "answer": "Place it in the Centre Circle as per Laws",
+    "options": [
+      "Leave it where it lands",
+      "Award it to the opponent",
+      "Place it in the Centre Circle as per Laws",
+      "Declare it pocketed"
+    ]
+  },
+  {
+    "question": "If a C/m jumps out, hits a light fitting, and falls back on the board, how is it treated?",
+    "answer": "It is considered to have naturally travelled",
+    "options": [
+      "It is declared a foul",
+      "It is removed from the board",
+      "It is considered to have naturally travelled",
+      "It is replayed"
+    ]
+  },
+  {
+    "question": "When removing a striker that rests on C/m and/or Queen, who performs the removal?",
+    "answer": "The Umpire",
+    "options": [
+      "The player",
+      "The opponent",
+      "The Umpire",
+      "Both players together"
+    ]
+  },
+  {
+    "question": "If removing a striker at the pocket mouth causes a C/m or Queen to fall into the pocket, how is it treated?",
+    "answer": "It is deemed pocketed",
+    "options": [
+      "It is replaced on the board",
+      "It is deemed pocketed",
+      "It is declared a foul",
+      "The turn is replayed"
+    ]
+  },
+  {
+    "question": "If C/m and/or Queen rest on the striker, how should they be repositioned after removal?",
+    "answer": "As close as possible to their original position",
+    "options": [
+      "Anywhere inside the centre circle",
+      "Near the striker line",
+      "As close as possible to their original position",
+      "Next to the nearest pocket"
+    ]
+  },
+  {
+    "question": "If a player pockets only the striker in a proper stroke, what is the consequence?",
+    "answer": "One of his C/m is taken out as Due and the turn is lost",
+    "options": [
+      "No penalty and turn continues",
+      "One of his C/m is taken out as Due and the turn is lost",
+      "Two C/m are taken out and turn continues",
+      "Opponent loses turn"
+    ]
+  },
+  {
+    "question": "If a player pockets only the striker in an improper stroke, what penalty applies?",
+    "answer": "Two C/m are taken out as Due and penalty, and the turn is lost",
+    "options": [
+      "One C/m is taken out and turn continues",
+      "Two C/m are taken out as Due and penalty, and the turn is lost",
+      "Only a warning is given",
+      "Opponent pockets one C/m"
+    ]
+  },
+  {
+    "question": "If a player pockets the striker along with his own C/m by a proper stroke, what happens?",
+    "answer": "The pocketed C/m and one Due C/m are taken out and the turn continues",
+    "options": [
+      "Only the striker is taken out",
+      "The pocketed C/m and one Due C/m are taken out and the turn continues",
+      "Turn is lost without penalty",
+      "Opponent places two C/m and gains turn"
+    ]
+  },
+  {
+    "question": "If a player pockets the striker with the opponent’s C/m by a proper stroke, what is the result?",
+    "answer": "The opponent’s C/m is counted as pocketed, one Due C/m is taken out, and the turn is lost",
+    "options": [
+      "Opponent’s C/m is replaced and turn continues",
+      "The opponent’s C/m is counted as pocketed, one Due C/m is taken out, and the turn is lost",
+      "Two C/m are taken out and turn continues",
+      "No penalty applies"
+    ]
+  },
+  {
+    "question": "If a player pockets opponent’s C/m by an improper stroke, what happens?",
+    "answer": "A penalty C/m is taken out and the turn is lost",
+    "options": [
+      "The C/m is returned and turn continues",
+      "A penalty C/m is taken out and the turn is lost",
+      "Only a warning is issued",
+      "Opponent loses next turn"
+    ]
+  },
+  {
+    "question": "When should Due or penalty C/m be taken out for placing?",
+    "answer": "Immediately after being available and after completion of the stroke",
+    "options": [
+      "At the end of the board",
+      "Immediately after being available and after completion of the stroke",
+      "Only after opponent requests",
+      "Before the stroke is completed"
+    ]
+  },
+  {
+    "question": "In Doubles, who normally takes out the Due and/or penalty C/m for placing?",
+    "answer": "The player sitting on the right-hand side of the player having the turn",
+    "options": [
+      "The partner on the left",
+      "The player sitting on the right-hand side of the player having the turn",
+      "The opponent",
+      "The umpire"
+    ]
+  },
+  {
+    "question": "What happens if a player does not place an available Due before the next stroke and it goes unnoticed?",
+    "answer": "The Due is deemed forfeited",
+    "options": [
+      "It is doubled later",
+      "The Due is deemed forfeited",
+      "Opponent automatically wins the board",
+      "It remains pending indefinitely"
+    ]
+  },
+  {
+    "question": "When is placing considered complete?",
+    "answer": "When the finger is removed and the C/m is inside the Outer Circle",
+    "options": [
+      "When the umpire approves",
+      "When the finger is removed and the C/m is inside the Outer Circle",
+      "After 5 seconds",
+      "When opponent agrees"
+    ]
+  },
+  {
+    "question": "What is the time limit for placing Due and/or penalty C/m after the umpire's announcement?",
+    "answer": "15 seconds",
+    "options": [
+      "10 seconds",
+      "15 seconds",
+      "20 seconds",
+      "30 seconds"
+    ]
+  },
+  {
+    "question": "Can a player forego the Due and/or penalty C/m partially?",
+    "answer": "No, it can only be foregone in total",
+    "options": [
+      "Yes, partially or fully",
+      "No, it can only be foregone in total",
+      "Only in Doubles",
+      "Only with umpire approval"
+    ]
+  },
+  {
+    "question": "If a player mistakenly places his own C/m instead of a Due and it is noticed in time, what happens?",
+    "answer": "It is rectified and a Foul is declared",
+    "options": [
+      "It is allowed to remain",
+      "It is rectified and a Foul is declared",
+      "Opponent loses turn",
+      "No action is taken"
+    ]
+  },
+
+  {
+    "question": "When both the Queen and a C/m jump out in the same stroke, which piece must be positioned on the board first?",
+    "answer": "Queen",
+    "options": ["C/m", "Striker", "Queen", "Any piece chosen by the opponent"]
+  },
+  {
+    "question": "If the Queen and a C/m leave the playing surface together, how should the second piece be placed after the Queen?",
+    "answer": "Touching the Queen in the opposite direction of the player",
+    "options": [
+      "Anywhere inside the centre circle",
+      "Near the nearest pocket",
+      "Touching the Queen in the opposite direction of the player",
+      "On the baseline"
+    ]
+  },
+  {
+    "question": "If the Queen stands balanced on its rim without falling, what action should be taken?",
+    "answer": "It should be left undisturbed",
+    "options": [
+      "It should be repositioned immediately",
+      "It should be declared pocketed",
+      "It should be left undisturbed",
+      "It should be removed as a foul"
+    ]
+  },
+  {
+    "question": "If the Queen overlaps with another C/m on the board, what is the correct ruling?",
+    "answer": "They shall remain undisturbed",
+    "options": [
+      "Separate them carefully",
+      "Remove the Queen",
+      "They shall remain undisturbed",
+      "Declare a foul"
+    ]
+  },
+  {
+    "question": "If the Queen jumps out and falls back onto the board without hitting any obstruction, where should it be placed?",
+    "answer": "In the Centre Circle as per Laws",
+    "options": [
+      "Where it lands",
+      "In the Centre Circle as per Laws",
+      "Near the striker line",
+      "It is considered pocketed"
+    ]
+  },
+  {
+    "question": "If the Queen falls into the pocket while removing a striker at the pocket mouth, how is it treated?",
+    "answer": "It is deemed to have been pocketed",
+    "options": [
+      "It is replaced on the board",
+      "It is deemed to have been pocketed",
+      "It results in a foul",
+      "The stroke is replayed"
+    ]
+  },
+  {
+    "question": "During placement of Due or penalty C/m, is the player allowed to touch or move the Queen?",
+    "answer": "No, the Queen must not be disturbed",
+    "options": [
+      "Yes, if space is limited",
+      "No, the Queen must not be disturbed",
+      "Only with umpire permission",
+      "Only in Doubles"
+    ]
+  },
+  {
+    "question": "If the Queen is accidentally disturbed while placing a Due C/m, what should happen?",
+    "answer": "It should be restored by the Umpire and a Foul declared",
+    "options": [
+      "It remains where it moved",
+      "Opponent repositions it",
+      "It should be restored by the Umpire and a Foul declared",
+      "No action is required"
+    ]
+  },
+
+  {
+    "question": "Can Due and penalty C/m be adjusted against each other?",
+    "answer": "No, they cannot be set off against each other",
+    "options": [
+      "Yes, always",
+      "Only in Doubles",
+      "No, they cannot be set off against each other",
+      "Only with umpire approval"
+    ]
+  },
+  {
+    "question": "Is a player allowed to place Due or penalty C/m covering the Centre Circle?",
+    "answer": "No, and a foul will be declared",
+    "options": [
+      "Yes, if space is limited",
+      "No, and a foul will be declared",
+      "Yes, partially only",
+      "Only during break"
+    ]
+  },
+  {
+    "question": "If a player leaves his seat during the board for any reason, what is the result?",
+    "answer": "He loses the board with his remaining C/m and/or Queen counted",
+    "options": [
+      "He receives a warning",
+      "He skips one turn",
+      "He loses the board with his remaining C/m and/or Queen counted",
+      "Opponent loses next turn"
+    ]
+  },
+  {
+    "question": "When is a player permitted to pocket and cover the Queen?",
+    "answer": "After pocketing at least one of his own C/m",
+    "options": [
+      "Any time during the board",
+      "Only at break",
+      "After pocketing at least one of his own C/m",
+      "Only when opponent has 22 points"
+    ]
+  },
+  {
+    "question": "If the Queen is pocketed before any of the player’s C/m, what happens?",
+    "answer": "The Queen is taken out for placing and the turn is lost",
+    "options": [
+      "Queen is counted and turn continues",
+      "The Queen is taken out for placing and the turn is lost",
+      "Opponent loses turn",
+      "Board ends immediately"
+    ]
+  },
+  {
+    "question": "If the Queen is pocketed but not covered and this is not noticed before the next stroke, how is it treated?",
+    "answer": "It is considered properly covered",
+    "options": [
+      "It is replaced immediately",
+      "It is considered properly covered",
+      "A foul is declared automatically",
+      "Opponent gains two points"
+    ]
+  },
+  {
+    "question": "If the Queen and a player’s C/m are pocketed together in one stroke, how is the Queen treated?",
+    "answer": "The Queen is considered covered",
+    "options": [
+      "The Queen must be replaced",
+      "The Queen is considered covered",
+      "The turn is lost",
+      "A Due is declared"
+    ]
+  },
+  {
+    "question": "If the Queen and Striker are pocketed together by a proper stroke, what happens?",
+    "answer": "The Queen is taken out for placing and an additional C/m is taken out, but the turn continues",
+    "options": [
+      "Queen is counted and game ends",
+      "The Queen is taken out for placing and an additional C/m is taken out, but the turn continues",
+      "Two C/m are removed and turn is lost",
+      "Opponent wins the board"
+    ]
+  },
+  {
+    "question": "If a player uses Due or penalty C/m to make a shot with the Queen, what is the ruling?",
+    "answer": "He must rectify it and a foul is declared",
+    "options": [
+      "Shot is valid",
+      "Only a warning is given",
+      "He must rectify it and a foul is declared",
+      "Opponent loses turn"
+    ]
+  },
+  {
+    "question": "If the Queen is resting at the pocket mouth and falls in on its own, how is it treated?",
+    "answer": "It is considered duly pocketed",
+    "options": [
+      "It is replaced on the board",
+      "It is considered duly pocketed",
+      "It is declared a foul",
+      "Stroke is replayed"
+    ]
+  },
+  {
+    "question": "If time is stopped due to an appeal and a player continues play without the umpire’s order, what is the consequence?",
+    "answer": "He loses the entire board with remaining C/m and Queen points counted",
+    "options": [
+      "Only a warning is issued",
+      "Turn is replayed",
+      "He loses the entire board with remaining C/m and Queen points counted",
+      "Opponent loses one point"
+    ]
+  },
+  {
+    "question": "When can a new striker be introduced during a match?",
+    "answer": "After completion of a board or if damaged, after completing the stroke",
+    "options": [
+      "At any time during play",
+      "Only before break",
+      "After completion of a board or if damaged, after completing the stroke",
+      "Only with opponent’s permission"
+    ]
+  },
+ 
+  {
+    "question": "Is it permissible to balance a Due C/m against a penalty C/m instead of placing both separately?",
+    "answer": "No, both must be placed separately and cannot be adjusted against each other",
+    "options": [
+      "Yes, they cancel each other",
+      "Only in special situations",
+      "No, both must be placed separately and cannot be adjusted against each other",
+      "Only if the umpire agrees"
+    ]
+  },
+  {
+    "question": "What is the ruling if a Due C/m is positioned even partially over the Centre Circle?",
+    "answer": "The player must correct it and a foul is declared",
+    "options": [
+      "It is allowed if partially covering",
+      "The player must correct it and a foul is declared",
+      "Opponent repositions it without penalty",
+      "It is counted as properly placed"
+    ]
+  },
+  {
+    "question": "In a doubles match, can a player remove and place a Due C/m on behalf of his partner?",
+    "answer": "No, only the eligible partner may remove and place it",
+    "options": [
+      "Yes, if partner requests",
+      "No, only the eligible partner may remove and place it",
+      "Yes, at any time",
+      "Only during break"
+    ]
+  },
+  {
+    "question": "If a player pockets the Queen while a Due is pending against him, what follows?",
+    "answer": "The Queen is taken out for placing and the player loses his turn",
+    "options": [
+      "The Queen is considered covered",
+      "The Queen remains pocketed",
+      "The Queen is taken out for placing and the player loses his turn",
+      "Only a warning is given"
+    ]
+  },
+  {
+    "question": "Under what condition can a player legally attempt to cover the Queen?",
+    "answer": "Only after pocketing at least one of his own C/m",
+    "options": [
+      "Immediately after break",
+      "Only after pocketing at least one of his own C/m",
+      "When opponent has no C/m left",
+      "At any time before final stroke"
+    ]
+  },
+  {
+    "question": "If the Queen is pocketed and not covered in the same turn but the oversight is unnoticed before the next stroke, how is it recorded?",
+    "answer": "It is treated as properly covered",
+    "options": [
+      "It must be replaced immediately",
+      "It is treated as properly covered",
+      "It results in automatic loss of turn",
+      "Opponent gains extra point"
+    ]
+  },
+  {
+    "question": "What happens if a player, during his turn, leaves his seat without valid reason?",
+    "answer": "He forfeits the board counting his remaining C/m and/or Queen",
+    "options": [
+      "He resumes with a warning",
+      "He skips one turn",
+      "He forfeits the board counting his remaining C/m and/or Queen",
+      "Opponent forfeits next turn"
+    ]
+  },
+  {
+    "question": "If powder is deliberately wiped off the board after the umpire announces play, what is the consequence?",
+    "answer": "A foul is declared against the player",
+    "options": [
+      "Play continues without penalty",
+      "A warning is issued",
+      "A foul is declared against the player",
+      "Board is reset"
+    ]
+  },
+  {
+    "question": "Can excess powder along the baseline be cleared during play?",
+    "answer": "Yes, but only using the striker during the player’s turn",
+    "options": [
+      "No, powder cannot be touched",
+      "Yes, by hand anytime",
+      "Yes, but only using the striker during the player’s turn",
+      "Only by the umpire"
+    ]
+  },
+  {
+    "question": "If a striker jumps over the board during a stroke but the player pockets his own C/m or Queen, what happens to the turn?",
+    "answer": "The turn continues",
+    "options": [
+      "The turn is lost",
+      "A penalty is imposed",
+      "The turn continues",
+      "Board is replayed"
+    ]
+  },
+  {
+    "question": "Who has the final authority to decide on changing the carrom board or table condition?",
+    "answer": "The Umpire",
+    "options": [
+      "The players jointly",
+      "The tournament organizer",
+      "The Umpire",
+      "The senior player"
+    ]
+  },
+  {
+    "question": "If a damaged C/m needs replacement, how is it positioned?",
+    "answer": "As close as possible to its original position by the umpire",
+    "options": [
+      "Anywhere inside the centre circle",
+      "Near the nearest pocket",
+      "As close as possible to its original position by the umpire",
+      "At the baseline"
+    ]
+  } , 
+
+  {
+    "question": "If a damaged C/m is approved for replacement, how should it be repositioned?",
+    "answer": "It must be placed as close as possible to its original position by the Umpire",
+    "options": [
+      "Anywhere inside the centre circle",
+      "At the baseline",
+      "It must be placed as close as possible to its original position by the Umpire",
+      "Near the nearest pocket"
+    ]
+  },
+  {
+    "question": "What happens to the time count when a player makes an appeal to the Umpire during play?",
+    "answer": "The time count stops until the Umpire orders play to resume",
+    "options": [
+      "The time continues running",
+      "The opponent decides when to resume",
+      "The time count stops until the Umpire orders play to resume",
+      "The board is cancelled"
+    ]
+  },
+  {
+    "question": "Can play continue immediately after an appeal without the Umpire’s instruction?",
+    "answer": "No, play must wait for the Umpire’s order",
+    "options": [
+      "Yes, if both players agree",
+      "No, play must wait for the Umpire’s order",
+      "Yes, after 10 seconds",
+      "Only in doubles"
+    ]
+  },
+  {
+    "question": "What is the penalty if a player continues play without the Umpire’s order after an appeal?",
+    "answer": "He loses the entire board counting his remaining C/m and Queen points",
+    "options": [
+      "Only a warning is issued",
+      "He skips his next turn",
+      "He loses the entire board counting his remaining C/m and Queen points",
+      "Opponent loses one C/m"
+    ]
+  },
+  {
+    "question": "Who is responsible for applying powder before the break?",
+    "answer": "The player having the turn",
+    "options": [
+      "The opponent",
+      "The Umpire",
+      "The player having the turn",
+      "Both players together"
+    ]
+  },
+  {
+    "question": "How should powder be applied on the playing surface before the break?",
+    "answer": "Evenly, without being excessive or insufficient",
+    "options": [
+      "Heavily across the board",
+      "Only at the centre",
+      "Evenly, without being excessive or insufficient",
+      "Lightly near the pockets only"
+    ]
+  },
+  {
+    "question": "Is a player allowed to apply or remove powder after the Umpire announces Play?",
+    "answer": "No, it is not permitted",
+    "options": [
+      "Yes, during his turn",
+      "Only with opponent’s consent",
+      "No, it is not permitted",
+      "Only at the baseline"
+    ]
+  },
+  {
+    "question": "What is the consequence of deliberately wiping or blowing powder off the board during play?",
+    "answer": "A foul is declared against the player",
+    "options": [
+      "No action is taken",
+      "The board is reset",
+      "A foul is declared against the player",
+      "Opponent gains a free turn"
+    ]
+  },
+  {
+    "question": "Can excess powder along the Base Line or Base Circle be removed during play?",
+    "answer": "Yes, but only using the striker during the player’s turn",
+    "options": [
+      "No, powder cannot be touched",
+      "Yes, by hand at any time",
+      "Yes, but only using the striker during the player’s turn",
+      "Only by the Umpire"
+    ]
+  },
+  {
+    "question": "Who has the authority to regulate the even spread of powder on the board?",
+    "answer": "The Umpire",
+    "options": [
+      "The senior player",
+      "The opponent",
+      "The Umpire",
+      "The tournament organizer"
+    ]
+  },
+  {
+    "question": "If dust or insects are noticed on the board during play, what should a player do?",
+    "answer": "Request the Umpire to remove them",
+    "options": [
+      "Blow them away himself",
+      "Ignore them",
+      "Request the Umpire to remove them",
+      "Wipe the board with cloth"
+    ]
+  }
+
+]
