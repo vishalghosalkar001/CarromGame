@@ -252,9 +252,9 @@ if st.session_state.app_stage == "select":
 
     choice = st.radio(
         "How many questions would you like to attempt?",
-        [10, 20, 50, 100],
+        [50, 100],
         horizontal=False,
-        index=None
+        index = 0
     )
 
     col1, col2 = st.columns(2)
@@ -470,4 +470,5 @@ if st.session_state.app_stage == "completed":
     with col2:
         if st.button("🏆 Show Leaderboard", use_container_width=True):
             st.session_state.app_stage = "leaderboard"
+
             st.rerun()
